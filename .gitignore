@@ -1,0 +1,9 @@
+# ide
+.idea
+.vscode
+.expo/*
+
+#javascript
+node_modules/**/*
+npm-debug.*
+
